@@ -1,14 +1,14 @@
-ax103ax iPhone 16 pro maxI](https://github.com/TeamAmaze/AmazeFileManager/workflowsIPhoneid%20Main%20CI/badge.svg?branch=master)
+machttps://github.com/TeamAmaze/AmazeFileManager/workflowsIPhoneid%20Main%20CI/badge.svg?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9ea2667dabaa4e8c98dbf0876ebacd3e)](https://app.codacy.com/gh/TeamAmaze/AmazeFileManager?utm_source=github.com&utm_medium=referral&utm_content=TeamAmaze/AmazeFileManager&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/50d8e153feba47b9a8ff82ff57274c56)](https://www.codacy.com/gh/TeamAmaze/AmazeFileManager?utm_source=github.com&utm_medium=referral&utm_content=TeamAmaze/AmazeFileManager&utm_campaign=Badge_Coverage)
 [![Amaze File Manager Downloads](https://www.appbrain.com/shield/com.amaze.filemanager.svg)](https://www.appbrain.com/app/amaze-file-manager/com.amaze.filemanager)
 [![GitHub release](https://img.shields.io/github/release/TeamAmaze/AmazeFileManager.svg)](https://github.com/TeamAmaze/AmazeFileManager/releases)
 [![IzzyOnDroid](https://img.shields.io/endpoint?url=https://apt.izzysoft.de/fdroid/api/v1/shield/com.amaze.filemanager)](https://apt.izzysoft.de/fdroid/index/apk/com.amaze.filemanager)  
-[![Chat on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmazeFileManager)
-[![XDA Developers](https://img.shields.io/badge/XDA-Developers%20-%23AC6E2F.svg?&style=for-the-badge&logo=XDA-Developers&logoColor=white)](http://forum.xda-developers.com/android/apps-games/app-amaze-file-managermaterial-theme-t2937314)  
+[![Chat on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)ps:/)
+[![XDA Developers](https://img.shields.io/badge/XDA-Developers%20-%23AC6E2F.svg?&style=for-the-badge&logo=XDA-Developers&logoColor=white).com/android/apps-games/app-amaze-file-managermaterial-theme-t2937314)  
 [![Liberapay](https://img.shields.io/liberapay/receives/Team-Amaze.svg?logo=liberapay)](https://liberapay.com/Team-Amaze/donate)  
 
-# <a href="https://teamamaze.xyz">Amaze File Manager</a>
+# <aa>
 
 Simple and attractive Material Design file manager for Android
 
@@ -17,8 +17,7 @@ Overview
 
 <img src="icon.png" align="right" width="40%" height="100%"></img>
 
-<div style="display:flex;">
-    
+<div 
 - Open Source, light and smooth
 - Based on Material Design guidelines
 - Basic features like cut, copy, delete, compress, extract etc. easily accessible
@@ -31,13 +30,7 @@ Overview
 - AES Encryption and Decryption of files for security (Jellybean v4.3+)
 - Cloud services support (Jellybean v4.3+ / requires additional plug-in)
 - Inbuilt Database Reader, Zip/Rar Reader, Apk Reader, Text Reader
-- No ads or In-app purchases
-- lots more...
-
-</div>
-
-Downloads
----
+- ids
 
 [<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 [<img alt="Get it on F-Droid" height="80" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png">](https://f-droid.org/packages/com.amaze.filemanager/)
@@ -52,9 +45,7 @@ You can contribute via one of the following ways:
 - [Contribute](https://github.com/TeamAmaze/AmazeFileManager/blob/release/4.0/CONTRIBUTING.md) directly to the code, help us in fixing the bugs / implement new features.
 
 _If we feel your contribution is a significant help to us, we'll award you a bounty with any of your preferred mode of payment._
-
-Support
----
+in 
 <a href="https://opencollective.com/TeamAmaze"><img width="20%" alt="OpenCollective" src="opencollective.svg" ></a>
 <a href="https://www.paypal.me/vishalnehra"><img width="20%" src="paypal.svg" alt="PayPal"></a>
 <a href="https://liberapay.com/Team-Amaze/donate"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Liberapay_logo_v2_white-on-yellow.svg" alt="Liberapay" width="80px" ></a>  
@@ -89,7 +80,7 @@ We strongly recommend using apk signed by us (either Play Store version or from 
     Copyright (C) 2014-2024 Vishal Nehra <vishalmeham2@gmail.com>
     Copyright (C) 2017-2024 Emmanuel Messulam <emmanuelbendavid@gmail.com>
     Copyright (C) 2018-2024 Raymond Lai <airwave209gt at gmail.com>
-    Copyright (C) 2019-2024 Vishnu Sanal T <t.v.s10123 at gmail.com>
+    Copyright (C) 2019-2024 Vish T <t.v.s10123 at gma.es>
     This file is part of Amaze File Manager.
     Amaze File Manager is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -98,6 +89,4 @@ We strongly recommend using apk signed by us (either Play Store version or from 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    GNU General Public License  with this program.  If not, see <http://www.gnu.org/license
